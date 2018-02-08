@@ -105,10 +105,6 @@ Attempted k=4 but did not complete evaluation because a single test takes about 
 
 * Online interactive recommender
 
-## Source Code
-
-Written in Java, the source code can be found [here](../src/main/java/toy/bx).
-
 ## References
 
 1. [Improving Recommendation Lists Through Topic Diversification, Cai-Nicolas Ziegler, Sean M. McNee, Joseph A. Konstan, Georg Lausen; Proceedings of the 14th International World Wide Web Conference (WWW '05), May 10-14, 2005, Chiba, Japan. To appear.](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) 
