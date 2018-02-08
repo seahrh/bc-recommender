@@ -28,7 +28,7 @@ The similarity matrix is another hash table where the similarity score can be lo
 
 After collecting a set S of items similar to i, p(u,i) can be predicted as follows:
 
-![](formula.jpg?raw=true)
+[[https://github.com/seahrh/bc-recommender/tree/master/img/formula.jpg|alt=formula]]
 
 Unlike the prediction formula in Ekstrand et al (2010), I did not implement an upper bound on the size of S. This is because the rating matrix is sparse, i.e. there are few ratings per user. This is also known as the cold start problem.
 
